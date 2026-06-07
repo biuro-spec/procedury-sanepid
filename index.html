@@ -85,6 +85,17 @@
             color: #777;
             margin-top: 5px;
         }
+        
+        /* Styl dla telefonów komórkowych */
+        @media (max-width: 768px) {
+            body { padding: 15px 10px; }
+            .container { padding: 20px; }
+            .header { flex-direction: column; text-align: center; }
+            .header img { margin: 0 auto 15px auto; }
+            .procedure-card { flex-direction: column; align-items: stretch; gap: 15px; }
+            .procedure-card > div:last-child { flex-wrap: wrap; justify-content: center; }
+            .button-link { text-align: center; flex: 1; min-width: 45%; }
+        }
     </style>
 </head>
 <body>

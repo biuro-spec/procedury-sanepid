@@ -245,3 +245,39 @@ p {
     margin: 2cm;
   }
 }
+
+/* Style dla urządzeń mobilnych (telefony) */
+@media (max-width: 768px) {
+  body {
+    padding: 15px 10px;
+  }
+  .document-container {
+    padding: 20px;
+  }
+  .doc-header, .doc-header tbody, .doc-header tr, .doc-header th, .doc-header td {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .doc-header .logo-cell {
+    text-align: center;
+    border-bottom: none;
+    width: 100%;
+  }
+  .doc-header .title-cell {
+    border-bottom: none;
+    padding-top: 5px;
+    padding-bottom: 15px;
+  }
+  .doc-header .meta-cell {
+    width: 100%;
+  }
+  .meta-row {
+    flex-direction: column;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #eee;
+  }
+  .meta-label {
+    margin-bottom: 3px;
+  }
+}
