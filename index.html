@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Procedury Sanepid - Life-Ratownictwo</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            margin: 0;
+            padding: 40px;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            border-bottom: 2px solid #e9ecef;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        .header img {
+            max-width: 150px;
+            margin-right: 20px;
+        }
+        .header h1 {
+            margin: 0;
+            color: #2c3e50;
+            font-size: 24px;
+        }
+        .procedure-card {
+            background: #fdfdfd;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .procedure-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+        }
+        .procedure-title {
+            flex: 1;
+        }
+        .procedure-title h3 {
+            margin: 0 0 5px 0;
+            color: #2c3e50;
+            font-size: 16px;
+        }
+        .button-link {
+            display: inline-block;
+            background-color: #3498db;
+            color: #fff;
+            text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 6px;
+            font-size: 13px;
+            font-weight: 600;
+            transition: background-color 0.2s;
+        }
+        .button-link:hover {
+            background-color: #2980b9;
+        }
+        .button-link.instr {
+            background-color: #e74c3c;
+        }
+        .button-link.instr:hover {
+            background-color: #c0392b;
+        }
+        .company-info {
+            font-size: 11px;
+            color: #777;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <div>
+                <img src="loga/Life-ratownictwo logo czerwone krzyż.png" alt="Life Ratownictwo Logo">
+                <div class="company-info">
+                    <strong>LIFE-RATOWNICTWO MEDYCZNE Sp. z o.o.</strong><br>
+                    NIP: 6392023251 | REGON: 389900423 | KRS: 0000920762<br>
+                    Zarząd: Bernadeta Oleszowska, Mariusz Cichoń
+                </div>
+            </div>
+            <div>
+                <h1>Główny Panel Procedur Sanepid</h1>
+                <p style="margin: 5px 0 0 0; color: #7f8c8d; font-size: 14px;">Wygenerowane szablony i instrukcje stanowiskowe</p>
+            </div>
+        </div>
+
+        <div class="procedures-list">
+            
+            <div class="procedure-card">
+                <div class="procedure-title">
+                    <h3>1. Higieniczne mycie i pielęgnacja rąk</h3>
+                </div>
+                <div style="display: flex; gap: 10px;">
+                    <a href="procedura_higiena_rak.html" class="button-link">📄 HTML</a>
+                    <a href="procedura_higiena_rak.pdf" class="button-link" style="background-color: #555;">📥 PDF</a>
+                    <a href="instrukcja_higiena_rak.html" class="button-link instr">📝 HTML</a>
+                    <a href="instrukcja_higiena_rak.pdf" class="button-link instr" style="background-color: #c0392b;">📥 PDF</a>
+                </div>
+            </div>
+
+            <div class="procedure-card">
+                <div class="procedure-title">
+                    <h3>2. Higieniczna dezynfekcja rąk</h3>
+                </div>
+                <div style="display: flex; gap: 10px;">
+                    <a href="procedura_dezynfekcja_rak.html" class="button-link">📄 HTML</a>
+                    <a href="procedura_dezynfekcja_rak.pdf" class="button-link" style="background-color: #555;">📥 PDF</a>
+                    <a href="instrukcja_dezynfekcja_rak.html" class="button-link instr">📝 HTML</a>
+                    <a href="instrukcja_dezynfekcja_rak.pdf" class="button-link instr" style="background-color: #c0392b;">📥 PDF</a>
+                </div>
+            </div>
+
+            <div class="procedure-card">
+                <div class="procedure-title">
+                    <h3>3. Dezynfekcja i mycie narzędzi</h3>
+                </div>
+                <div style="display: flex; gap: 10px;">
+                    <a href="procedura_narzedzia.html" class="button-link">📄 HTML</a>
+                    <a href="procedura_narzedzia.pdf" class="button-link" style="background-color: #555;">📥 PDF</a>
+                    <a href="instrukcja_narzedzia.html" class="button-link instr">📝 HTML</a>
+                    <a href="instrukcja_narzedzia.pdf" class="button-link instr" style="background-color: #c0392b;">📥 PDF</a>
+                </div>
+            </div>
+
+            <div class="procedure-card">
+                <div class="procedure-title">
+                    <h3>4. Mycie i dezynfekcja twardych powierzchni zmywalnych</h3>
+                </div>
+                <div style="display: flex; gap: 10px;">
+                    <a href="procedura_powierzchnie.html" class="button-link">📄 HTML</a>
+                    <a href="procedura_powierzchnie.pdf" class="button-link" style="background-color: #555;">📥 PDF</a>
+                    <a href="instrukcja_powierzchnie.html" class="button-link instr">📝 HTML</a>
+                    <a href="instrukcja_powierzchnie.pdf" class="button-link instr" style="background-color: #c0392b;">📥 PDF</a>
+                </div>
+            </div>
+
+            <div class="procedure-card">
+                <div class="procedure-title">
+                    <h3>5. Postępowanie po zranieniu lub kontakcie z materiałem zakaźnym</h3>
+                </div>
+                <div style="display: flex; gap: 10px;">
+                    <a href="procedura_zranienia.html" class="button-link">📄 HTML</a>
+                    <a href="procedura_zranienia.pdf" class="button-link" style="background-color: #555;">📥 PDF</a>
+                    <a href="instrukcja_zranienia.html" class="button-link instr">📝 HTML</a>
+                    <a href="instrukcja_zranienia.pdf" class="button-link instr" style="background-color: #c0392b;">📥 PDF</a>
+                </div>
+            </div>
+
+            <div class="procedure-card">
+                <div class="procedure-title">
+                    <h3>6. Protokół kontroli wewnętrznej</h3>
+                </div>
+                <div style="display: flex; gap: 10px;">
+                    <a href="procedura_protokol_kontroli.html" class="button-link">📄 HTML</a>
+                    <a href="procedura_protokol_kontroli.pdf" class="button-link" style="background-color: #555;">📥 PDF</a>
+                    <a href="instrukcja_protokol_kontroli.html" class="button-link instr">📝 HTML</a>
+                    <a href="instrukcja_protokol_kontroli.pdf" class="button-link instr" style="background-color: #c0392b;">📥 PDF</a>
+                </div>
+            </div>
+
+            <div class="procedure-card">
+                <div class="procedure-title">
+                    <h3>7. Ogólny plan higieny</h3>
+                </div>
+                <div style="display: flex; gap: 10px;">
+                    <a href="procedura_plan_higieny.html" class="button-link">📄 HTML</a>
+                    <a href="procedura_plan_higieny.pdf" class="button-link" style="background-color: #555;">📥 PDF</a>
+                    <a href="instrukcja_plan_higieny.html" class="button-link instr">📝 HTML</a>
+                    <a href="instrukcja_plan_higieny.pdf" class="button-link instr" style="background-color: #c0392b;">📥 PDF</a>
+                </div>
+            </div>
+
+            <div class="procedure-card">
+                <div class="procedure-title">
+                    <h3>8. Dezynfekcja małych i trudno dostępnych powierzchni</h3>
+                </div>
+                <div style="display: flex; gap: 10px;">
+                    <a href="procedura_powierzchnie_male.html" class="button-link">📄 HTML</a>
+                    <a href="procedura_powierzchnie_male.pdf" class="button-link" style="background-color: #555;">📥 PDF</a>
+                    <a href="instrukcja_powierzchnie_male.html" class="button-link instr">📝 HTML</a>
+                    <a href="instrukcja_powierzchnie_male.pdf" class="button-link instr" style="background-color: #c0392b;">📥 PDF</a>
+                </div>
+            </div>
+
+            <div class="procedure-card">
+                <div class="procedure-title">
+                    <h3>9. Dezynfekcja powierzchni skażonych materiałem organicznym</h3>
+                </div>
+                <div style="display: flex; gap: 10px;">
+                    <a href="procedura_skazone.html" class="button-link">📄 HTML</a>
+                    <a href="procedura_skazone.pdf" class="button-link" style="background-color: #555;">📥 PDF</a>
+                    <a href="instrukcja_skazone.html" class="button-link instr">📝 HTML</a>
+                    <a href="instrukcja_skazone.pdf" class="button-link instr" style="background-color: #c0392b;">📥 PDF</a>
+                </div>
+            </div>
+
+            <div class="procedure-card">
+                <div class="procedure-title">
+                    <h3>10. Podstawowe zasady sterylizacji</h3>
+                </div>
+                <div style="display: flex; gap: 10px;">
+                    <a href="procedura_sterylizacja.html" class="button-link">📄 HTML</a>
+                    <a href="procedura_sterylizacja.pdf" class="button-link" style="background-color: #555;">📥 PDF</a>
+                    <a href="instrukcja_sterylizacja.html" class="button-link instr">📝 HTML</a>
+                    <a href="instrukcja_sterylizacja.pdf" class="button-link instr" style="background-color: #c0392b;">📥 PDF</a>
+                </div>
+            </div>
+
+            <div class="procedure-card">
+                <div class="procedure-title">
+                    <h3>11. Mycie i dezynfekcja lodówek</h3>
+                </div>
+                <div style="display: flex; gap: 10px;">
+                    <a href="procedura_lodowki.html" class="button-link">📄 HTML</a>
+                    <a href="procedura_lodowki.pdf" class="button-link" style="background-color: #555;">📥 PDF</a>
+                    <a href="instrukcja_lodowki.html" class="button-link instr">📝 HTML</a>
+                    <a href="instrukcja_lodowki.pdf" class="button-link instr" style="background-color: #c0392b;">📥 PDF</a>
+                </div>
+            </div>
+
+            <div class="procedure-card">
+                <div class="procedure-title">
+                    <h3>12. Otwieranie opakowań sterylnych</h3>
+                </div>
+                <div style="display: flex; gap: 10px;">
+                    <a href="procedura_opakowania_sterylne.html" class="button-link">📄 HTML</a>
+                    <a href="procedura_opakowania_sterylne.pdf" class="button-link" style="background-color: #555;">📥 PDF</a>
+                    <a href="instrukcja_opakowania_sterylne.html" class="button-link instr">📝 HTML</a>
+                    <a href="instrukcja_opakowania_sterylne.pdf" class="button-link instr" style="background-color: #c0392b;">📥 PDF</a>
+                </div>
+            </div>
+
+            <div class="procedure-card">
+                <div class="procedure-title">
+                    <h3>13. Postępowanie z brudną bielizną</h3>
+                </div>
+                <div style="display: flex; gap: 10px;">
+                    <a href="procedura_bielizna.html" class="button-link">📄 HTML</a>
+                    <a href="procedura_bielizna.pdf" class="button-link" style="background-color: #555;">📥 PDF</a>
+                    <a href="instrukcja_bielizna.html" class="button-link instr">📝 HTML</a>
+                    <a href="instrukcja_bielizna.pdf" class="button-link instr" style="background-color: #c0392b;">📥 PDF</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>

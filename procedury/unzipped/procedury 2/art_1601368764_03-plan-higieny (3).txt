@@ -1,0 +1,191 @@
+﻿Nazwa placówki………………………………………….
+
+
+OGÓLNY PLAN HIGIENY
+Opracowanie na podstawie:
+
+1) „Zasady utrzymania czystości w zakładach opieki zdrowotnej” - Paweł Grzesiowski,  
+    Marek Kowalski, Elżbieta Lejbrandt, Mirosława Malara, Rita Pawetko, Małgorzata 
+    Sobania, Anna Tymoczko, Anna Ziółko - Stowarzyszenie Higieny Lecznictwa , Warszawa, 
+    październik  2008 r.
+2) „Procedury higieny w placówkach ochrony zdrowia” – Maria Ciuruś, Warszawa 2009 r.;
+3) „Higiena w placówkach opieki medycznej” – zespół autorów pod redakcją Grażyny Dulny 
+    i Elżbiety Lejbrandt;
+
+Cel:
+- opracowanie jednolitych metod postępowania,
+- usuniecie z powierzchni zanieczyszczeń wraz ze znajdującymi się na niej 
+  drobnoustrojami;
+Adresat: 
+- personel medyczny i pomocniczy;
+Odpowiedzialność:
+- bezpośredni nadzór i odpowiedzialność za pracę osób sprzątających sprawuje 
+  Kierownik (lekarz, pielęgniarka)…………………………………
+- bieżącą kontrolę – ……………………….
+Definicje:
+dekontaminacja – proces niszczenia biologicznych czynników chorobotwórczych poprzez: mycie, dezynfekcję i sterylizację;
+dezynfekcja -  proces redukcji biologicznych czynników chorobotwórczych poprzez zastosowanie metod fizycznych lub chemicznych;
+dezynfekcja niskiego stopnia – proces redukcji wegetatywnych form bakterii (oprócz Mycobacterium tuberculosis), wirusów osłonowych (np. HBV, HCV, HIV) i grzybów (oznaczenie preparatu B, F);
+dezynfekcja średniego stopnia – proces redukcji wegetatywnych form wszystkich gatunków bakterii (w tym Mycobacterium tuberculosis), wszystkich wirusów (w tym osłonowych i bezosłonkowych) oraz grzybów (oznaczenie preparatu B, F, V, Tbc);
+dezynfekcja wysokiego stopnia – proces redukcji wszystkich wegetatywnych form biologicznych czynników  chorobotwórczych (bakterie, wirusy, grzyby) z wyjątkiem dużej ilości form przetrwalnikowych (oznaczenie preparatu B, F, V, Tbc, S);
+mycie – etap dekontaminacji, usuwający zarówno zabrudzenia jak i pewną ilość biologicznych czynników chorobotwórczych;
+pokoje socjalne personelu – pomieszczenia zlokalizowane w jednostkach organizacyjnych, dostępne wyłącznie dla personelu, w którym można spożywać posiłki lub wypoczywać;
+pokoje zabiegowe - pomieszczenia, w których wykonywane są procedury medyczne u pacjentów oraz czynności przygotowawcze, np. rozpuszczanie leków, przygotowywanie wlewów;
+pomieszczenie porządkowe – pomieszczenie służące do przechowywania środków czystości oraz preparatów myjąco-dezynfekcyjnych, przygotowywania ich roztworów roboczych oraz mycia i dezynfekcji sprzętu sprzątającego;
+preparat myjący (detergent) – preparat usuwający zanieczyszczenia poprzez zmianę pH, obniżenie twardości wody, rozkład cząstek organicznych lub ułatwianie mieszania z wodą;
+preparat dezynfekcyjny – preparat dezynfekcyjny zdolny do dezynfekcji, dopuszczony w Polsce do obrotu;
+preparat dezynfekcyjny bakteriobójczy (B) – preparat chemiczny o działaniu bójczym na wegetatywne formy bakterii (oprócz prątków gruźlicy Mycobacterium tuberculosis);
+preparat dezynfekcyjny grzybobójczy (F) – preparat chemiczny wykazujący działanie bójcze w odniesieniu do grzybów;
+preparat dezynfekcyjny prątkobójczy (Tbc) – preparat chemiczny bakteriobójczy o działaniu bakteriobójczym, także w odniesieniu do prątków gruźlicy;
+preparat dezynfekcyjny wirusobójczy (V) – preparat chemiczny wykazujący działanie bójcze w odniesieniu do wirusów;
+skażenie (kontaminacja) – zanieczyszczenie biologicznymi czynnikami chorobotwórczymi powierzchni przedmiotów, sprzętu i aparatury medycznej, wody lub powietrza;
+sprzątanie – proces, który ma na celu utrzymanie pomieszczenia w czystości oraz uniknięcie gromadzenia się zanieczyszczeń mechanicznych (kurz, substancje organiczne) wraz z biologicznymi czynnikami chorobotwórczymi;
+Zasady doboru preparatów myjących i dezynfekcyjnych:
+●   zdefiniowanie poziomu ryzyka  
+      	    biologiczne czynniki ryzyka w środowisku zoz przenoszone są za pośrednictwem rąk, sprzętu i aparatury medycznej. Kluczowe znaczenie dla wybory właściwego  preparatu myjącego ma zdefiniowanie rzeczywistego poziomu ryzyka (myć czy dezynfekować). Podstawowe kryteria - czy wystąpiło skażenie powierzchni materiałem biologicznym pochodzenia ludzkiego oraz z jaką częstotliwością i w  jakim zakresie pacjent bezpośrednio kontaktuje się z powierzchnią; 
+      	    - strefa bezdotykowa – obejmuje wszystkie powierzchnie, które nie mają bezpośredniego (za pośrednictwem rąk personelu, pacjentów oraz sprzętu medycznego) kontaktu z pacjentem (m.in. podłogi, ściany, okna); ryzyko kontaminacji tych obszarów jest niewielkie oraz przeniesienia na pacjenta znajdującego się na powierzchni ewentualnego zanieczyszczenia;
+      	    - strefa dotykowa -  obejmuje wszystkie powierzchnie, z którymi pacjent i personel kontaktują się często, ale które nie zostały skażone biologicznym materiałem ludzkim; z uwagi na częsty kontakt za pośrednictwem rąk lub sprzętu medycznego ryzyko kontaminacji tych obszarów jest duże oraz przeniesienie znajdującego się na tych powierzchniach zanieczyszczenia na każdą kontaktującą się z nimi osobę (m.in. klamki, uchwyty, kontakty, słuchawki telefoniczne, poręcze krzeseł, blaty robocze, strefa wokół umywalki);   
+                - zaleca się stosowanie preparatów zdefiniowanych jako myjąco-dezynfekujące lub dezynfekujące o właściwościach myjących, które umożliwiają wykonywanie procedur jednoetapowych;
+● kompatybilność preparatów myjących i dezynfekcyjnych:
+kompatybilność (zgodność) dotyczy – składu chemicznego i pH roztworów roboczych preparatów myjących i dezynfekujących;
+zgodność w zakresie składu substancji aktywnych zmniejsza ryzyko związane z wystąpieniem niepożądanych reakcji chemicznych;
+zgodność w zakresie pH roztworów roboczych preparatów myjących i dezynfekujących ogranicza ryzyko związane ze zmniejszeniem skuteczności procedury dezynfekcji, występujące podczas stosowania roztworów o odmiennym pH (mocno kwaśnym lub mocno alkalicznym);
+● stosowanie najniższych skutecznych stężeń:
+podczas doboru preparatów myjących i dezynfekujących należy kierować się zasadą uzyskania maksymalnie wysokiej efektywności działania przy zastosowaniu minimalnych, skutecznych stężeń roztworów roboczych;
+skutkuje to obniżeniem kosztów procedury i zmniejszeniem ryzyka związanego z powstanie  reakcji niepożądanych w odniesieniu do ludzi i środowiska oraz niszczeniem powierzchni poddawanych częstemu kontaktowi z preparatem chemicznym; 
+● postać preparatów myjących i dezynfekujących:
+należy stosować preparaty łatwe w użyciu – tabletki, saszetki, posiadające dozowniki/miarki;
+●właściwości preparatów myjących i dezynfekujących:
+cechy preparatów myjących:
+- wysoka skuteczność mycia;
+- niskie stężenie robocze;
+- łatwość wypłukiwania się z mytej powierzchni i sprzętu stosowanego do sprzątania;
+- brak ujemnego wpływu na myte powierzchnie;
+- szybkość działania;
+- brak toksyczności -  na zdrowie personelu i pacjnetów;
+- łatwość użytkowania (zalecenia producenta);
+- brak ujemnego wpływu na środowisko naturalne;
+cechy preparatów dezynfekcyjnych:
+- właściwości myjąco-dezynfekcyjne – zdolności biobójcze w obecności niewielkiej 
+  ilości zanieczyszczeń fizycznych (tj. widocznych gołym okiem);
+- szerokie spektrum działania;
+- łatwość sporządzania roztworów roboczych;
+- niskie stężenia roztworów roboczych;
+- jak najkrótszy czas działania potrzebny do osiągnięcia deklarowanych zdolności   
+  biobójczych;
+- brak oddziaływania na materiały, z których wykonane są powierzchnie poddawane 
+  dezynfekcji;
+- odpowiednia trwałość roztworów użytkowych;
+- niski stopień toksyczności;
+- wysoki stopień biodegradacji;
+- niska wrażliwość na odczyn pH wody użytej do sporządzania roztworów;
+- możliwość stosowania w obecności pacjentów (brak działania drażniącego i 
+  uczulającego);
+● ekonomika i koszty:
+stosowane są preparaty, które przy najniższych kosztach łącznych gwarantują spełnienie    wszystkich kryteriów prawidłowości procesu;
+określana jest – ilość roboczych roztworów preparatów myjących i dezynfekujących niezbędna do prawidłowego określenie procedury;
+analizie poddawany jest koszt roztworów roboczych;
+Przygotowanie roztworów dezynfekcyjnych:
+używane w procedurze preparaty myjące i dezynfekujące należy przygotować i stosować wg zaleceń producenta;
+używać odpowiednio do poziomu zanieczyszczenia zdefiniowanego procedurą, stężenia roboczego oraz zalecanej przez producenta temperatury roztworów roboczych;
+do przygotowania roztworu roboczego należy używać wyłącznie profesjonalnych, dostarczanych przez producenta i przeznaczonych do określonego preparatu:
+          - miarek;
+          - dozowników;
+należy przestrzegać kolejności postępowania:
+- najpierw odmierzyć odpowiednia ilość wody, którą należy wlać bezpośrednio do pojemnika roboczego;
+- następnie dodać właściwą ilość preparatu myjącego lub dezynfekującego;
+ - roztwory robocze należy przygotowywać i przechowywać zgodnie z zaleceniami producenta (czas, temperatura, wilgotność), w niedostępnym dla osób postronnych pomieszczeniu;
+- preparaty stężone należy przechowywać wyłącznie w oryginalnych i szczelnie zamkniętych opakowaniach;
+- opakowania zastępcze nie gwarantują stabilności produktu;
+- w jednym roztworze roboczym nie wolno mieszać różnych preparatów myjących lub preparatu myjącego i preparatu dezynfekcyjnego. 
+Opis postępowania:
+sprzątanie odbywa się przez pracownika/firmę zewnętrzną z częstotliwością i rodzajem  czynności zależnym od obszaru, strefy i rodzaju pomieszczeń;
+sprzątanie wykonywane jest zgodnie z wykazem czynności zawartych w schemacie sprzątania, przy użyciu wymaganego sprzętu oraz środków myjących i dezynfekcyjnych;
+wykonanie dekontaminacji:
+     w celu osiągnięcia oczekiwanego poziomu czystości mikrobiologicznej należy przestrzegać następujących zasad:
+wszystkie procedury, schematy postępowania znajdują się w miejscu znanym i dostępnym wszystkim wykonującym procedurę;
+konieczne jest bezwzględne przestrzeganie czasu dezynfekcji – zbyt krotki powoduje nie osiąganie parametrów bójczych, proces jest nieskuteczny; zbyt długi prowadzi do niszczenia dezynfekowanej powierzchni;
+zalecane jest stosowanie preparatów o właściwościach myjąco-dezynfekujacych (jedna zamiast dwóch procedur);
+używanie preparatów, które po zakończeniu procedury nie wymagają spłukiwania;   
+nie wolno zmieniać zalecanego przez producenta sposobu wykonania procedury (np. rozcieńczać preparaty, które producent przeznaczył do użycia w postaci stężonej);
+nie wolno stosować innych niż podane przez producenta podczas rejestracji produktu parametrów procesu – czas, stężenie, zastosowanie;
+z uwagi na bezpieczne warunki pracy, osoby wykonujące procedurę zabezpieczone są w odpowiednie środki ochrony osobistej;
+    na efektywność sprzątania wpływ mają:
+- kolejność mycia i dezynfekcji poszczególnych pomieszczeń,
+- pożądane cechy sprzętu do utrzymania czystości,
+- pożądane cechy stosowanych w danej strefie preparatów dezynfekcyjnych,
+- postępowanie ze sprzętem po zakończeniu pracy,
+- zachowanie zasad prawidłowego postępowania z odpadami,
+- stosowanie właściwych środków ochrony osobistej,
+- obowiązek przestrzegania instrukcji i procedur dotyczących zasad higieny,
+- świadomość występowania zagrożeń,
+ w nazwa placówki występują dwa obszary:
+medyczny,
+administracyjno-gospodarczy;
+w ramach obszarów występują strefy:
+strefa II – „ogólnej czystości medycznej” – gabinety lekarskie, korytarze komunikacji wewnętrznej;
+strefa III – „czystości zmiennej” – gabinety zabiegowe;
+strefa IV – „ciągłego skażenia” – toalety, łazienki, brudownik.
+Wymagania dotyczące sprzętu:
+wózki do sprzątania -  wyposażone w wiadra;
+ścierki do mycia i dezynfekcji – jednorazowe/wielorazowego użytku przystosowane do prania w wysokich temperaturach, w kolorach – kolory dowolne, niżej podana propozycja:
+- kolor czerwony – m.in. brudowniki, muszle klozetowe, kosze na odpady, sprzęt do sprzątania;
+- kolor niebieski – m.in. szafki, blaty, stoliki zabiegowe, uchwyty, klamki, drzwi;
+- kolor żółty – m.in. łazienki, zlewy, umywalki, lustra, armatura, ściany, lamperie;
+uchwyty do mopa i mopy:
+- zapewniają bezkontaktową pracę z powierzchniami zanieczyszczonymi;
+- ilość mopów dostosowana do ilości pomieszczeń, rodzaju sprzątanych pomieszczeń 
+  oraz systemu sprzątania (system jednego mopa);
+- uchwyty do mopa z przegubem umożliwiającym swobodne manipulowanie stopą we   
+  wszystkich płaszczyznach;
+nakładki: (do wyboru)
+- o twardych włóknach – do szorowania;
+- wykonane z gęstych splotów – do polerowania;
+- do pracy na wilgotno – do zbierania kurzu z podłogi, właściwości antystatyczne;
+- wykonane z materiałów umożliwiających – pranie mechaniczne w temp. 950C, 
+  chłonnych, odpornych na działanie preparatów myjących;
+Inne urządzenia:
+do mycia szyb;
+polerowania podłóg.
+Zasady utrzymania czystości:
+zasada I:
+mycie i dezynfekcję należy rozpocząć od fragmentów uważanych za najczystsze (pod  względem fizycznym i bakteriologicznym), kończąc na fragmentach uważanych za najbardziej zabrudzone;
+zasada II:
+w przypadku powierzchni zanieczyszczonych materiałem biologicznym pochodzenia ludzkiego należy w pierwszej kolejności, bezpośrednio po skażeniu, usunąć za pomocą ligniny, ręcznika papierowego znajdujący się na powierzchni materiał biologiczny, a następnie wykonać dezynfekcję średniego stopnia przy użyciu preparatów o spektrum bakterio-, grzybo-, wiruso- i prątkobójczym;
+zasada III:
+w przypadku powierzchni nie zanieczyszczonych materiałem biologicznym nie stosuje się codziennej dezynfekcji podłóg; wyjątek stanowią dwa obszary, w których w zależności od poziomu zagrożenia stosowana jest dezynfekcja niskiego lub średniego stopnia:
+obszary wymagające podwyższonego poziomu czystości (np. gabinety zabiegowe);
+dezynfekcja w tym obszarze dotyczy:
+powierzchni dotykowych – klamki, kontakty, telefony, powierzchnie robocze, uchwyty;
+podłóg;
+obszary o podwyższonym poziomie skażenia (np. sanitariaty, brudowniki,      
+            pomieszczenie magazynowania odpadów):
+dezynfekcja w tym obszarze dotyczy:
+powierzchni dotykowych – klamki, kontakty, telefony, powierzchnie robocze, uchwyty,
+podłóg;
+duże znaczenie w ocenie ryzyka zakażeń mają powierzchnie bezpośrednio kontaktujące się ze skórą, m.in.:
+powierzchnie robocze w gabinetach zabiegowych, blaty do przygotowywania leków, stanowiska do pobierania materiałów do badań;
+wózki zabiegowe;
+uchwyty – szafek, lodówek w gabinetach zabiegowych;
+urządzenia i sprzęt medyczny, klawiatura, monitory;
+łazienki i urządzenia sanitarne (umywalki, brodziki, muszle klozetowe) wraz z otoczeniem;
+należy poruszać się w jednym kierunku, ta sama zasada dotyczy rodzaju pomieszczeń;
+podczas mycia i dezynfekcji przestrzegać obowiązującego kodu kolorów ściereczek oraz „ósemkowy” sposób pracy mopem płaskim;
+dezynfekcję końcową wózka, którym przeprowadzana była wcześniej dezynfekcja powierzchni wykonać przy użyciu tego samego preparatu; 
+nie dopuszcza się mieszania ze sobą różnych rodzajów preparatów dezynfekcyjnych ani preparatów myjących z dezynfekcyjnymi;
+przed sprzątaniem pomieszczeń należy usunąć odpady;
+powierzchnie bez zanieczyszczeń materiałem organicznym należy poddać najpierw myciu, potem dezynfekcji;
+mopy i ścierki po użyciu - przekazać do prania;
+ilość mopów i ścierek jest dostosowana do ilości i rodzaju pomieszczeń;
+powierzchnie dezynfekowane pozostawić do wyschnięcia – nie wycierać;
+gruntowne sprzątanie pomieszczeń obejmuje mycie i dezynfekcję wszystkich elementów pomieszczeń – powierzchnie pionowe, poziome, okna, lampy bakteriobójcze, ramy obrazów.
+Zasady pracy personelu sprzątającego:
+ personel sprzątający powinien przestrzegać procedur higienicznych właściwych dla danej strefy;
+zobowiązany jest do udziału w szkoleniach i przestrzegania zasad BHP obowiązujących podczas wykonywania procedur higienicznych, w szczególności dotyczących:
+częstotliwości mycia i dezynfekcji rąk, 
+właściwości preparatów do dezynfekcji rąk, 
+stosowania odpowiedni środków ochrony osobistej oraz właściwego ich stosowania (użycie poszczególnych elementów odzieży ochronnej, częstotliwość ich zmiany, postępowanie po użyciu);
+
+Osoba odpowiedzialna za nadzór i przestrzeganie procedury:
+…………………………………….
+

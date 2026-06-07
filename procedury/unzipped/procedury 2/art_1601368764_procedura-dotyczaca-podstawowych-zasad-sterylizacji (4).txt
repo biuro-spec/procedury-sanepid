@@ -1,0 +1,133 @@
+﻿Procedura dotycząca podstawowych zasad sterylizacji
+
+Procedura dotyczy zasad postępowania z narzędziami w czasie przygotowywania autoklawu do procesu sterylizacji i przeprowadzenia tego procesu w praktykach stomatologicznych oraz zakładach opieki zdrowotnej.
+Za prawidłowe stosowanie poniższej procedury odpowiada lekarz (praktyki stomatologiczne) lub kierownik zakładu, lub wyznaczony i przeszkolony do tego celu pracownik.
+
+I. Narzędzia muszą być:
+- idealnie czyste
+- suche
+- odpowiednio opakowane
+- odpowiednio ułożone w komorze sterylizatora
+II. Parametry sterylizacji muszą być rygorystycznie przestrzegane i udokumentowane, a dokumentacja przechowywana przez 10 lat
+
+III. Kontrola sterylizacji musi być prowadzona na bieżąco i okresowo
+IV. Warunki przechowywania muszą wykluczać możliwość ewentualnego wtórnego zanieczyszczenia wysterylizowanego materiału
+
+Jak należy układać zapakowane narzędzia w komorze sterylizatora ?
+Luźno- trzeba koniecznie zapewnić swobodny dostęp pary. Narzędzia opakowane i przeznaczone do dłuższego przechowywania układamy zgodnie z zasadą: papier do papieru, folia do folii-pamiętając o łatwym przenikaniu pary przez warstwę papieru. 
+
+Nie można upychać narzędzi w torebkach-można je zapełnić najwyżej w ¾ objętości. W przeciwnym razie może się nam nie udać wykonanie szczelnego zgrzewu lub nastąpi pęknięcie materiału. 
+
+Bezpieczna odległość między materiałem a zgrzewem zapewniająca prawidłowe zamknięcie torebki 
+	wynosi 3 cm. 
+Warto pamiętać, że komora sterylizatora musi być wypełniona przynajmniej w 1/6 objętości w przeciwnym razie powietrze gromadzi się wokół niewielkiego ładunku i ogranicza dostęp pary. 
+Nie dotyczy to nowoczesnych autoklawów klasy B z frakcjonowaną próżnią wstępną.
+
+W miarę możliwości stosować zasadę:
+ jeden pacjent = jeden zabieg = jeden zestaw narzędzi
+
+Narzędzia używane jako uzupełniające lub stosowane sporadycznie należy sterylizować opakowane pojedynczo.
+
+Bez opakowania można sterylizować wyłącznie 1 zestaw narzędzi, który należy użyć bezpośrednio po wyjęciu ze sterylizatora !
+
+Nie można sterylizować dużej liczby narzędzi nie opakowanych celem wybierania zestawów z komory sterylizatora.
+
+Normy dotyczące sterylizacji: 
+PN - EN 554 - sterylizacja wyrobów medycznych - walidacja i rutynowa kontrola sterylizacji parą wodną
+PN - EN 866-1 - biologiczne systemy badania sterylizatorów i procesów sterylizacji - wymagania ogólne
+PN - EN 867-1 - niebiologiczne systemy do stosowania w sterylizatorach - wymagania ogólne
+PN - EN 868-1 - materiały i systemy opakowaniowe dla wyrobu medycznego przeznaczone do sterylizacji - wymagania ogólne
+PN - EN ISO 14161 - sterylizacja wyrobów medycznych służących ochronie zdrowia - wskaźniki biologiczne
+PN - EN ISO 15882 - sterylizacja wyrobów medycznych służących do ochrony zdrowia - wskaźniki chemiczne
+PN - EN 13060 - podział cykli sterylizacyjnych:
+
+- cykl B - przeznaczony dla wszystkich opakowanych 
+	i nie opakowanych narzędzi o różnej nawet skomplikowanej budowie, litych, wgłębionych 
+	i porowatych
+
+- cykl N - dla narzędzi litych, nie opakowanych
+
+- cykl S - ściśle określony przez producenta dla określonego rodzaju narzędzi
+
+Kontrola procesów sterylizacji parowej 
+Wewnętrzna - należy do użytkownika i obejmuje:
+	* kontrolę fizyczną
+	* kontrolę chemiczną
+	* kontrolę biologiczną
+
+Zewnętrzna - należy do Państwowej Inspekcji Sanitarnej - obejmuje kontrolę biologiczną
+
+Częstotliwość kontroli wewnętrznej
+Okresowa - przy użyciu wskaźników biologicznych PN - EN 866 i PN - EN ISO 14161 - informuje o fakcie zabicia drobnoustrojów - spor wyselekcjonowanych szczepów bakterii wysoce opornych na dany czynnik sterylizujący
+- Częstotliwość minimum jeden raz na 6 miesięcy
+* dotyczy każdego sterylizatora
+* dotyczy cykli o różnych parametrach
+* dotyczy kontroli po każdej naprawie lub dłuższej przerwie
+Wynik - po 7 dniach, 48 godzinach, 1-3 godzin
+- ilość zakładanych testów - zależy od pojemności komory sterylizatora:
+			gdy < 20 l - dwa testy
+			gdy > 20 l - min. 3 testy
+
+Pakiety ze wskaźnikami umieszcza się po przekątnej komory, w miejscach najtrudniej dostępnych dla czynnika sterylizującego tj. tył komory, dolna półka przy drzwiach
+
+Sporale A - po sterylizacji muszą być poddane inkubacji w czasie 24 godzin, a do momentu przekazania przechowywane w lodówce.
+Testy ampułkowe - muszą być poddane inkubacji do dwóch godzin od procesu
+
+ Częsta kontrola biologiczna jest najpewniejszą metodą kontroli procesu sterylizacji ! 
+
+Kontrola wewnętrzna bieżąca:
+- fizyczna - wskazania termometrów, manometrów itp. - dokumentacją jest wydruk - informuje jedynie o pracy urządzenia
+- chemiczna - norma PN - EN 867, PN - EN ISO 15882 - oparta na reakcji chemicznej substancji wchodzących w skład wskaźnika - widoczna jako zmiana barwy - przeprowadzana dla każdego wsadu i dla każdego pakietu. 
+Kontrola chemiczna dotyczy:
+*kontroli ekspozycji 
+					(sprawdziany sterylizacji)
+ - sygnalizuje, że opakowanie było poddane sterylizacji ale nie mówi o sterylności jego zawartości - nie wymaga dokumentacji
+* kontrola  wsadu - opakowane wskaźniki chemiczne umieszcza się w różnych punktach komory sterylizatora:
+- pojemność komory < 20 l - dwa wskaźniki
+- pojemność komory > 20 l - min. trzy wskaźniki
+Prawidłowe wybarwienie wskaźników zwalnia wsad do użycia
+Wyniki tej kontroli dokumentowane w miejscu sterylizacji
+
+*kontrola  pakietu, zestawu 
+	– wszystkie pakiety stanowiące wsad sterylizatora powinny posiadać dowód penetracji pary wodnej do wnętrza pakietu ! 
+* kontrola sprzętu-EN 554 
+Norma PN-EN ISO 11140-1:2006 wskaźniki niebiologiczne do kontroli sterylizacji
+Klasa 1- wskaźniki procesu, najczęściej są umieszczane na zewnątrz opakowań.
+Klasa 2- wskaźniki do badań specjalnych 
+( Bowie&Dick test, PCD,STF…)
+Klasa 3- wskaźniki jednoparametrowe zaprojektowane na jeden z krytycznych parametrów
+Klasa 4- wskaźniki wieloparametrowe, zaprojektowane na dwa lub więcej krytycznych parametrów 
+Klasa 5- wskaźniki zintegrowane zaprojektowane tak, aby reagować we wszystkich przypadkach przekroczenia parametrów krytycznych poza określony zakres cykli sterylizacji.
+Klasa 6-wskaźniki emulacyjne-reagują na wszystkie parametry krytyczne w zakresie wartości cyklu sterylizacji, jaki został ustalony na podstawie wybranych cykli sterylizacyjnych. Zapewniają najwyższy poziom bezpieczeństwa.
+ Program zapewnienia jakości  procesu  sterylizacji
+
+KONTROLA WSADU-   KAŻDY CYKL-  TEST BIOLOGICZNY LUB CHEMICZNY
+KONTROLA PAKIETU-   KAŻDY PAKIET- WSKAŹNIK WIELOPARAMETROWY LUB INTEGRUJĄCY
+KONTROLA SPRZĘTU-   KAŻDEGO DNIA-   TEST BOWIE- DICK’A LUB ALTERNATYWNY (min klasy 4)
+KONTROLA EKSPOZYCJI- KAŻDY PAKIET-  TAŚMY, METKI itp.
+REJESTROWANIE KONTROLI CYKLI
+OZNAKOWANIE KAŻDEGO PAKIETU W CELU REJESTRACJI-  KARTY CYKLU, METKI, KSIĘGI KONTROLNE
+Dokumentacja procesu sterylizacji
+ Powinna być przechowywana przez 10 lat.
+
+Prawidłowa dokumentacja jest konieczna w przypadku roszczeń pacjentów, w celu udowodnienia prawidłowego przebiegu procesu sterylizacji.
+
+- Prowadzona dla każdego sterylizatora obejmuje:
+* data sterylizacji
+* nr kolejny cyklu w danym dniu
+* parametry cyklu - jeśli jest możliwość- przedstawienie wydruku parametrów w czasie cyklu pracy
+* wyniki kontroli chemicznej wsadu z zaznaczeniem miejsca rozmieszczenia testów w komorze, z zaznaczeniem ich prawidłowego wybarwienia
+* podpis osoby zwalniającej wsad do użycia
+* wyniki okresowej kontroli biologicznej
+- Dokumentacja kontroli pakietu, zestawu prowadzona osobno - np. w karcie pacjenta obejmuje:
+* datę sterylizacji
+* datę użycia materiału sterylnego
+* zaznaczenie prawidłowego wybarwienia testu
+
+Osoba/-y odpowiedzialna/-e  za proces setrylizacji:
+1	
+2	
+Osoba/-y odpowiedzialna/-e za nadzór i przestrzeganie procedury:1	
+2	
+
+
